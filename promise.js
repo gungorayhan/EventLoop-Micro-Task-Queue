@@ -4,3 +4,7 @@ new Promise((resolve)=>{
 }).then(result=>console.log(result))
 
 console.log(3)
+
+// 1
+// 3
+// 2
